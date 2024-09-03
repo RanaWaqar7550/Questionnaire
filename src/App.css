@@ -1,0 +1,10 @@
+#root {
+  width: 100%;
+}
+
+.app-logo {
+  width: 126px;
+  height: 26px;
+  position: relative;
+  left: 8px;
+}
